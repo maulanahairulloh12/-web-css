@@ -1,2 +1,2 @@
-# -web-css
+# lesson-web-css
 Belajar css kuyy
